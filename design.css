@@ -1,2 +1,9 @@
-<style-border>
-{}
+h1 {
+    color: blue;
+    margin-left: 20px;
+}
+
+p {
+    color: orange;
+    margin-left: 20px;
+}

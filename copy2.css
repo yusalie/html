@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(110, 129, 134);
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td,
+th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+    background-color: orange;
+}
+
+.wrapper {
+    width: 70vw;
+    margin: 16px auto;
+    padding: 16px;
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.top {
+    color: white;
+}
+
+.h {
+    color: rgb(20, 70, 117);
+    text-shadow: 2px 2px rgb(180, 21, 21);
+    font-size: 50px;
+}

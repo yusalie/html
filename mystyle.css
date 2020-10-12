@@ -1,0 +1,18 @@
+body {
+    text-emphasis: none;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+
+p {
+    color: orangered;
+    margin-left: 20px;
+}
+
+#para {
+    text-align: center;
+    color: green;
+}

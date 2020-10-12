@@ -1,0 +1,32 @@
+body {
+    text-emphasis: none;
+    background-color: rgb(110, 129, 134);
+}
+
+.wrapper {
+    width: 70vw;
+    margin: 16px auto;
+    padding: 16px;
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+#p1 {
+    color: yellow;
+}
+
+#h {
+    color: white;
+    text-shadow: 2px 2px rgb(180, 21, 21);
+}
+
+#h2 {
+    font-size: 50px;
+    color: rgb(136, 41, 41);
+    text-shadow: 2px 2px rgb(85, 3, 139);
+}
+
+#p {
+    color: yellow;
+    text-underline-position: below blue;
+}
